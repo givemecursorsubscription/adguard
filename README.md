@@ -1,1 +1,1 @@
-# adguard
+dns blocklist for my router
