@@ -1,0 +1,13 @@
+!
+! Title: More AdGuard Blocks
+! Description: adguard stuff
+!
+
+||afs.googlesyndication.com
+||click.googleanalytics.com
+||ads-api.tiktok.com
+||business-api.tiktok.com
+||ads.tiktok.com
+||log.fc.yahoo.com
+||udcm.yahoo.com
+||appmetrica.yandex.ru
